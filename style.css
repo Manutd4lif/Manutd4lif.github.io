@@ -1,0 +1,11 @@
+h1{text-align: center;
+    font-size: 7rem;
+    color: rgb(121, 90, 108);
+    height: 125px;
+    width: 400px;
+    background-color: #585b466e;
+    margin: 0 auto;
+    border: 5px solid rgb(121, 90, 108);
+    box-shadow: 0 0 0 #00000054;
+    padding: 15px;
+}
