@@ -1,4 +1,4 @@
-body{color: rgb(124, 108, 118);
+body{background: rgb(175, 139, 162);
 }
 
 h1{text-align: center;
@@ -13,11 +13,18 @@ h1{text-align: center;
     margin-top: 50px;
 }
 
-.grid-container img{width: 250px;
-                height: 250px;
-                padding: 20px;
+.grid{height: 500px;
+    width: 500px;
+    background-color: #5252526e;
+    margin: 0 auto;
+    border: 5px solid rgb(70, 61, 70);
+    box-shadow: 0 0 0 #00000054;
+    padding: 15px;
+    border-left: none;
+    margin-top: 50px;
+    margin-left: -10px;
 }
 
-.one{margin-top: 30px;
-    font-size: 3rem;
+.img1 img{height: 300px;
+    width: 300px;
 }
