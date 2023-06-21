@@ -89,6 +89,9 @@ h1{text-align: center;
 }
 
 .formulaire{display: inline-flex;
-    margin-left: 7.5%;
+    margin-left: 27.5%;
     margin-bottom: 5%;
+    height: 50%;
+    width: 50%;
+    text-align: center;
 }
